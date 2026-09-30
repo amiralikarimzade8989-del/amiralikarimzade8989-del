@@ -91,26 +91,17 @@ I'm currently looking for **freelance projects and job opportunities**, so if yo
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=amiralikarimzade8989-del&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=06B6D4&text_color=9CA3AF&ring_color=8B5CF6" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiralikarimzade8989-del&layout=compact&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=9CA3AF" alt="top languages" />
+<img src="https://raw.githubusercontent.com/amiralikarimzade8989-del/amiralikarimzade8989-del/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="49%" alt="profile details" />
+<img src="https://raw.githubusercontent.com/amiralikarimzade8989-del/amiralikarimzade8989-del/main/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="stats" />
 
-<br/>
+<img src="https://raw.githubusercontent.com/amiralikarimzade8989-del/amiralikarimzade8989-del/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="repos per language" />
+<img src="https://raw.githubusercontent.com/amiralikarimzade8989-del/amiralikarimzade8989-del/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="most commit language" />
 
-<img src="https://streak-stats.demolab.com/?user=amiralikarimzade8989-del&theme=transparent&hide_border=true&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6&sideLabels=9CA3AF&currStreakNum=9CA3AF&sideNums=9CA3AF&dates=6B7280" alt="streak" />
+<img src="https://raw.githubusercontent.com/amiralikarimzade8989-del/amiralikarimzade8989-del/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="60%" alt="productive time" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amiralikarimzade8989-del&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph" />
-
-</div>
-
-<br/>
-
-## 🏆 Trophies &nbsp;|&nbsp; دستاوردها
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=amiralikarimzade8989-del&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" alt="trophies" />
+<img src="https://streak-stats.demolab.com/?user=amiralikarimzade8989-del&theme=transparent&hide_border=true&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6&sideLabels=9CA3AF&currStreakNum=9CA3AF&sideNums=9CA3AF&dates=6B7280" alt="streak" />
 
 </div>
 
